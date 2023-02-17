@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=leieerr&show_icons=true&theme=dark&count_private=true)
-<img src="https://visitor-badge.glitch.me/badge?page_id=Githubhttps://github.com/leieerr&right_color=red" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/leieerr&right_color=red" />
 <!--
 **leieerr/leieerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
