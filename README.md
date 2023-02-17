@@ -1,4 +1,4 @@
-https://stats.justsong.cn/api/github?username=leieerr
+![](https://stats.justsong.cn/api/github?username=leieerr)
 ![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=dark&lang=zh-CN)
 
 
