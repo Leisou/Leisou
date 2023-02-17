@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=leieerr&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=dark&lang=zh-CN)
 
 
 
