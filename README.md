@@ -1,24 +1,6 @@
 <h1 align="center">Hi there👋, I'm leieerr</h1>
 
-
 <div align="center"><img src="https://count.getloli.com/get/@leieerr?theme=rule34" align="center"  /></div> 
 
-
-
-![](https://stats.justsong.cn/api/github?username=leieerr&theme=blueberry&lang=zh-CN) /></div> 
-![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=blueberry&lang=zh-CN) /></div> 
-
-<!--
-**leieerr/leieerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://stats.justsong.cn/api/github?username=leieerr&theme=blueberry&lang=zh-CN)               
+![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=blueberry&lang=zh-CN)
