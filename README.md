@@ -1,5 +1,5 @@
-![](https://stats.justsong.cn/api/github?username=leieerr&theme=dark&lang=zh-CN)
-![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/github?username=leieerr&theme=vue-dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=vue-dark&lang=zh-CN)
 
 
 
