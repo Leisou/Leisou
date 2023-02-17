@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=leieerr&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=leieerr&show_icons=true&theme=dark&count_private=true&lang=zh-CN)
 ![](https://stats.justsong.cn/api/bilibili/?id=39206087&theme=dark&lang=zh-CN)
 
 
